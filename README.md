@@ -2,7 +2,7 @@
 
 ## Description
 
-A console implementation of the [New York Times Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee "link to NYT spelling bee") in Python.
+A console implementation of the [New York Times Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee "link to NYT spelling bee").
 
 ## Resources used:
 * [Most frequently used English words](https://www.kaggle.com/datasets/rtatman/english-word-frequency?resource=download "frequently used English words")
